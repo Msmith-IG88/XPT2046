@@ -1,0 +1,7 @@
+*.log
+*.jou
+*.xpr
+.Xil/
+build/
+debug/
+sdk_workspace/
